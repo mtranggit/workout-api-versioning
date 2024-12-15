@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\workout-with-versioning.props" />
+</Project>
